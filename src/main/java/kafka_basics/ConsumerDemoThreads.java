@@ -20,7 +20,7 @@ public class ConsumerDemoThreads {
         new ConsumerDemoThreads().run();
     }
 
-    private ConsumerDemoWithThread() {
+    private ConsumerDemoThreads() {
 
     }
 
@@ -28,7 +28,7 @@ public class ConsumerDemoThreads {
         Logger logger = LoggerFactory.getLogger(ConsumerDemoThreads.class.getName());
 
         String bootstrapServers = "127.0.0.1:9092";
-        String groupId = "my-sixth-application";
+        String groupId = "twitter_tweets";
         String topic = "first_topic";
 
         // latch for dealing with multiple threads

@@ -31,7 +31,7 @@ public class TwitterProducer {
     String token = System.getenv("token");
     String secret = System.getenv("secret");
 
-    List<String> terms = Lists.newArrayList("python", "kafka", "datascience", "machinelearning");
+    List<String> terms = Lists.newArrayList("python", "politics", "football", "machinelearning");
 
 
     public TwitterProducer(){}
