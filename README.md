@@ -1,8 +1,8 @@
 # Kafka Tutorial
 
-Tutorial from Apache Kafka Course on Udemy (https://www.udemy.com/apache-kafka/)
+Tutorial from Apache Kafka Course on [Udemy](https://www.udemy.com/apache-kafka/)
 
-Basic introduction into Apache Kafka (https://kafka.apache.org/). Basic programms
+Basic introduction into [Apache Kafka](https://kafka.apache.org/). Basic programms
 for producing and consuming messages from Kafka with Java. Also introduction for
 using Kafka Connectors or storing consumed messages in ElasticSearch. KafKa Streams
 is used for filtering incoming messages.
@@ -12,7 +12,7 @@ is used for filtering incoming messages.
 - [Kafka](https://kafka.apache.org/downloads)
 - [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [IDE](https://www.jetbrains.com/idea/download/)
-- Elasicsearch(https://www.elastic.co/de/downloads)
+- [Elasicsearch](https://www.elastic.co/de/downloads)
 
 
 # Contributing
